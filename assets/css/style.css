@@ -1,0 +1,9 @@
+/*Like button style*/
+#ar_btn i{
+	color: #000;
+	font-size: 25px;
+}
+#ar_btn{
+	cursor: pointer;
+	padding-right: 10px;
+}
